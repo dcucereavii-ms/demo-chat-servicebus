@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SimpleBrokeredMessaging.Sender
+build_property.ProjectDir = C:\Users\dcucereavii\Downloads\azure-service-bus-in-depth\02\demos\Complete\SimpleBrokeredMessaging.Sender\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
